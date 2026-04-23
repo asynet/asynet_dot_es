@@ -3,7 +3,6 @@ locale = 'es-es'
 title = 'Asynet - Servicios IT para tu empresa'
 theme = "blowfish"
 
-[menu]
 [[menu.main]]
 name = "Home"
 url = "/"
@@ -37,10 +36,10 @@ name = "Twitter"
 url = "https://twitter.com/asynetes"
 icon = "twitter"
 
-[author]
-name = "Asynet Enterprise Services"
-image = "assets/logo.png"
-headline = "Soluciones IT para tu empresa"
+#[author]
+#name = "Asynet Enterprise Services"
+#image = "assets/logo.png"
+#headline = "Soluciones IT para tu empresa"
 
 #keywords = [
 #    "servicios informáticos",
