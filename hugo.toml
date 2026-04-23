@@ -1,6 +1,6 @@
 baseURL = 'https://asynet.es/'
 locale = 'es-es'
-title = 'Asynet Enterprise Services'
+title = 'Asynet - Servicios IT para tu empresa'
 theme = "blowfish"
 
 [menu]
