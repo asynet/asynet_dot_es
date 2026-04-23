@@ -17,10 +17,11 @@ theme = "blowfish"
 #    "optimización de operaciones",
 #    "eficiencia empresarial",
 #]
-colorScheme = "blowfish"
-favicon = "favicon.ico"
-defaultAppearance = "dark"
-showSocial = true
+#colorScheme = "blowfish"
+#favicon = "favicon.ico"
+#defaultAppearance = "dark"
+#showSocial = true
+
 
 [[params.header]]
 logo = "logo.png"
@@ -45,7 +46,6 @@ icon = "github"
 name = "Email"
 url = "mailto:richard@asynet.es"
 icon = "email"
-
 
 [menu]
 [[menu.main]]
