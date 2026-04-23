@@ -17,7 +17,7 @@ description = "Asynet Enterprise Services es una empresa de servicios informáti
 #    "optimización de operaciones",
 #    "eficiencia empresarial",
 #]
-#colorScheme = "blowfish"
+colorScheme = "blowfish"
 #favicon = "favicon.ico"
 #defaultAppearance = "dark"
 #showSocial = true
