@@ -1,4 +1,4 @@
-baseURL = 'https://www.asynet.es/'
+baseURL = 'https://asynet.es/'
 locale = 'es-es'
 title = 'Asynet Enterprise Services'
 theme = "blowfish"
