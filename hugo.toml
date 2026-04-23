@@ -1,5 +1,6 @@
 baseURL = 'https://asynet.es/'
-locale = 'es-es'
+#locale = 'es-es'
+languageCode = "es-ES"
 title = 'Asynet - Servicios IT para tu empresa'
 theme = "blowfish"
 
@@ -19,10 +20,10 @@ url = "/blog/"
 weight = 3
 
 [params]
-description = "Asynet Enterprise Services es una empresa de servicios informáticos especializada en soluciones de tecnología de la información para empresas. Ofrecemos una amplia gama de servicios, incluyendo consultoría, desarrollo de software, soporte técnico y gestión de infraestructura IT. Nuestro objetivo es ayudar a las empresas a optimizar sus operaciones y mejorar su eficiencia a través del uso de la tecnología."
+#description = "Asynet Enterprise Services es una empresa de servicios informáticos especializada en soluciones de tecnología de la información para empresas. Ofrecemos una amplia gama de servicios, incluyendo consultoría, desarrollo de software, soporte técnico y gestión de infraestructura IT. Nuestro objetivo es ayudar a las empresas a optimizar sus operaciones y mejorar su eficiencia a través del uso de la tecnología."
 colorScheme = "blowfish"
-favicon = "assets/favicon.ico"
-#defaultAppearance = "dark"
+#favicon = "assets/favicon.ico"
+defaultAppearance = "dark"
 showSocial = true
 showSocialInHeader = true
 
