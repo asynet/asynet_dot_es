@@ -22,15 +22,6 @@ favicon = "favicon.ico"
 #defaultAppearance = "dark"
 showSocial = true
 
-[params.header]
-showLogo = true
-showSocial = true
-
-[[params.social]]
-name = "LinkedIn"
-url = "https://www.linkedin.com/company/asynet/"
-icon = "linkedin"
-
 [menu]
 [[menu.main]]
 name = "Home"
@@ -46,3 +37,12 @@ weight = 2
 name = "Blog"
 url = "/blog/"
 weight = 3
+
+[params.header]
+showLogo = true
+showSocial = true
+
+[[params.social]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/company/asynet/"
+icon = "linkedin"
