@@ -3,27 +3,49 @@ locale = 'es-es'
 title = 'Asynet Enterprise Services'
 theme = "blowfish"
 
-#[params]
-#description = "Asynet Enterprise Services es una empresa de servicios informáticos especializada en soluciones de tecnología de la información para empresas. Ofrecemos una amplia gama de servicios, incluyendo consultoría, desarrollo de software, soporte técnico y gestión de infraestructura IT. Nuestro objetivo es ayudar a las empresas a optimizar sus operaciones y mejorar su eficiencia a través del uso de la tecnología."
-#author = "Asynet Enterprise Services"
-#keywords = [
-#    "servicios informáticos",
-#    "consultoría IT",
-#    "desarrollo de software",
-#    "soporte técnico",
-#    "gestión de infraestructura IT",
-#    "tecnología de la información",
-#    "soluciones IT",
-#    "optimización de operaciones",
-#    "eficiencia empresarial",
-#]
+[params]
+description = "Asynet Enterprise Services es una empresa de servicios informáticos especializada en soluciones de tecnología de la información para empresas. Ofrecemos una amplia gama de servicios, incluyendo consultoría, desarrollo de software, soporte técnico y gestión de infraestructura IT. Nuestro objetivo es ayudar a las empresas a optimizar sus operaciones y mejorar su eficiencia a través del uso de la tecnología."
+author = "Asynet Enterprise Services"
+keywords = [
+    "servicios informáticos",
+    "consultoría IT",
+    "desarrollo de software",
+    "soporte técnico",
+    "gestión de infraestructura IT",
+    "tecnología de la información",
+    "soluciones IT",
+    "optimización de operaciones",
+    "eficiencia empresarial",
+]
 colorScheme = "blowfish"
 favicon = "favicon.ico"
 defaultAppearance = "dark"
+showSocialIcons = true
 
-[params.header]
+[[params.header]]
 logo = "logo.png"
 showLogo = true
+
+[[params.social]]
+name = "Twitter"
+url = "https://twitter.com/asynet_es"
+icon = "twitter"
+
+[[params.social]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/company/asynet/"
+icon = "linkedin"
+
+[[params.social]]
+name = "GitHub"
+url = "https://github.com/asynet"
+icon = "github"
+
+[[params.social]]
+name = "Email"
+url = "mailto:richard@asynet.es"
+icon = "email"
+
 
 [menu]
 [[menu.main]]
