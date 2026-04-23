@@ -20,7 +20,12 @@ description = "Asynet Enterprise Services es una empresa de servicios informáti
 colorScheme = "blowfish"
 favicon = "favicon.ico"
 #defaultAppearance = "dark"
-#showSocial = true
+showSocial = true
+
+[[params.social]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/company/asynet/"
+icon = "linkedin"
 
 [menu]
 [[menu.main]]
