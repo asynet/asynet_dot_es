@@ -20,7 +20,7 @@ theme = "blowfish"
 colorScheme = "blowfish"
 favicon = "favicon.ico"
 defaultAppearance = "dark"
-showSocialIcons = true
+showSocial = true
 
 [[params.header]]
 logo = "logo.png"
