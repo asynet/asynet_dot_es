@@ -5,7 +5,21 @@ theme = "blowfish"
 
 [params]
 description = "Asynet Enterprise Services es una empresa de servicios informáticos especializada en soluciones de tecnología de la información para empresas. Ofrecemos una amplia gama de servicios, incluyendo consultoría, desarrollo de software, soporte técnico y gestión de infraestructura IT. Nuestro objetivo es ayudar a las empresas a optimizar sus operaciones y mejorar su eficiencia a través del uso de la tecnología."
-#author = "Asynet Enterprise Services"
+colorScheme = "blowfish"
+favicon = "assets/favicon.ico"
+#defaultAppearance = "dark"
+showSocial = true
+
+[author]
+name = "Asynet Enterprise Services"
+image = "assets/logo.png"
+headline = "Soluciones IT para tu empresa"
+links = [
+    { name = "LinkedIn", url = "https://www.linkedin.com/company/asynet/" },
+    { name = "Twitter", url = "https://twitter.com/asynetes" },
+    { name = "Email", url = "mailto:richard@asynet.es" },
+]
+
 #keywords = [
 #    "servicios informáticos",
 #    "consultoría IT",
@@ -17,10 +31,6 @@ description = "Asynet Enterprise Services es una empresa de servicios informáti
 #    "optimización de operaciones",
 #    "eficiencia empresarial",
 #]
-colorScheme = "blowfish"
-favicon = "favicon.ico"
-#defaultAppearance = "dark"
-showSocial = true
 
 [menu]
 [[menu.main]]
@@ -41,8 +51,3 @@ weight = 3
 [params.header]
 showLogo = true
 showSocial = true
-
-[[params.social]]
-name = "LinkedIn"
-url = "https://www.linkedin.com/company/asynet/"
-icon = "linkedin"
