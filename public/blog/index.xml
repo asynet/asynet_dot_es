@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Asynet - Servicios IT para tu empresa</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Asynet - Servicios IT para tu empresa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Thu, 23 Apr 2026 17:36:49 +0200</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mi Primer Post</title>
+      <link>http://localhost:1313/blog/mi-primer-post/</link>
+      <pubDate>Thu, 23 Apr 2026 17:36:49 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blog/mi-primer-post/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

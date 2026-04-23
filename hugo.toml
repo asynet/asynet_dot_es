@@ -24,6 +24,9 @@ weight = 3
 colorScheme = "blowfish"
 #favicon = "assets/favicon.ico"
 defaultAppearance = "dark"
+defaultBackgroundImage = "img/background.svg"
+defaultFeaturedImage = "assets/img/featured.svg"
+defaultSocialImage = "assets/logo.png"
 showSocial = true
 showSocialInHeader = true
 
