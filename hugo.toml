@@ -1,6 +1,6 @@
 baseURL = 'https://asynet.es/'
-#locale = 'es-es'
-languageCode = "es-ES"
+locale = 'es-es'
+#languageCode = "es-ES"
 title = 'Asynet - Servicios IT para tu empresa'
 theme = "blowfish"
 

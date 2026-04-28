@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://asynet.es/</loc>
     <lastmod>2026-04-23T17:36:49+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://asynet.es/blog/</loc>
     <lastmod>2026-04-23T17:36:49+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/mi-primer-post/</loc>
+    <loc>https://asynet.es/blog/mi-primer-post/</loc>
     <lastmod>2026-04-23T17:36:49+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/servicios/</loc>
+    <loc>https://asynet.es/servicios/</loc>
     <lastmod>2026-04-23T17:36:26+02:00</lastmod>
   </url>
 </urlset>
