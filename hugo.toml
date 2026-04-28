@@ -2,7 +2,7 @@ baseURL = 'https://asynet.es/'
 locale = 'es-es'
 #languageCode = "es-ES"
 title = 'Asynet - Servicios IT para tu empresa'
-theme = "blowfish"
+theme = "ananke"
 
 [[menu.main]]
 name = "Home"
@@ -56,5 +56,3 @@ icon = "twitter"
 #    "optimización de operaciones",
 #    "eficiencia empresarial",
 #]
-theme = 'ananke'
-theme = 'ananke'
